@@ -233,7 +233,8 @@ body {
 
 .main_container .sidebar ul li a:hover,
 .main_container .sidebar ul li a.active-4 {
-    background: #464646;
+    border: 1px solid #045995;
+    border-radius: 30px;
 }
 
 .main_container .container .item {
@@ -244,6 +245,7 @@ body {
     font-size: 14px;
     line-height: 22px;
     border-radius: 20px;
+    margin-left: 4em;
 }
 
 .main_container .container .item-2 {
@@ -255,6 +257,7 @@ body {
     line-height: 22px;
     border-radius: 20px;
     margin-top: 5em;
+    margin-left: 4em;
 }
 
 .main_container .container .item-3 {
@@ -266,6 +269,7 @@ body {
     line-height: 22px;
     border-radius: 20px;
     margin-top: 5em;
+    margin-left: 4em;
 }
 
 /* after adding active class */

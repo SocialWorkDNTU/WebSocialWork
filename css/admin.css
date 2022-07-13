@@ -233,7 +233,8 @@ body {
 
 .main_container .sidebar ul li a:hover,
 .main_container .sidebar ul li a.active-5 {
-    background: #464646;
+    border: 1px solid #045995;
+    border-radius: 30px;
 }
 
 .main_container .container .item {
@@ -244,6 +245,7 @@ body {
     font-size: 14px;
     line-height: 22px;
     border-radius: 20px;
+    margin-left: 4em;
 }
 
 /* after adding active class */
@@ -308,7 +310,7 @@ body {
 
 /* Modal */
 #modal-container {
-    height: 100vh;
+
     top: 0;
     left: 0;
     top: 0px;
